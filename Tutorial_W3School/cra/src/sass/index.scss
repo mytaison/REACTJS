@@ -1,0 +1,14 @@
+$myColor: rgb(214, 36, 36);
+$myFont: Candas Regular;
+$mySize: 16px;
+
+body{
+    background : skyblue;
+}
+h1{
+    color: $myColor;
+}
+h2{
+    font-family: $myFont;
+    font-size: $mySize;
+}
